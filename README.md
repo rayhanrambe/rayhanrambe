@@ -1,5 +1,5 @@
 <!-- Ganti LINK_RAW_GIF_KAMU dengan link raw GIF banner kamu setelah upload -->
-![banner](LINK_RAW_GIF_KAMU)
+![banner](<iframe src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="480" height="254" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/perfect-loops-pVGsAWjzvXcZW4ZBTE">via GIPHY</a></p>)
 
 # Hi, I'm Rayhan 👋
 
