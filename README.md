@@ -1,3 +1,6 @@
+<!-- Ganti LINK_RAW_GIF_KAMU dengan link raw GIF banner kamu setelah upload -->
+![banner](LINK_RAW_GIF_KAMU)
+
 # Hi, I'm Rayhan 👋
 
 Developer & educator based in Indonesia, focused on building practical web systems with **Laravel**.
@@ -24,10 +27,22 @@ Thesis guidance management system for university students — handles guidance c
 ### Personal Finance Tracker
 A self-hosted finance tracking app, rebuilt from a Google Apps Script bot into a full Laravel + MySQL + Livewire application.
 
+## 🎧 Now Playing (via Metrolist → Last.fm)
+
+<!-- Ganti USERNAME_LASTFM dengan username Last.fm kamu -->
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ramberayhan)](https://www.last.fm/user/ramberayhan)
+
 ## 📊 GitHub Stats
 
 ![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanrambe&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanrambe&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayhanrambe&theme=default)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rayhanrambe&theme=flat&column=7&margin-w=10)](https://github.com/rayhanrambe)
+
+<!-- Visitor badge, opsional -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rayhanrambe.rayhanrambe)
 
 ## 📫 Contact
 
