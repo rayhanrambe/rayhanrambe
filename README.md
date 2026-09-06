@@ -24,9 +24,8 @@ Developer & educator based in Indonesia, focused on building practical web syste
 ## 🎧 Now Playing
 
 <!-- Ganti USERNAME_LASTFM dengan username Last.fm kamu -->
-<p align="center">
  [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ramberayhan)](https://www.last.fm/user/ramberayhan) 
-</p>
+
 
 ## 📊 GitHub Stats
 
