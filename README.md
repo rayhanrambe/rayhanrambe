@@ -34,12 +34,12 @@ A self-hosted finance tracking app, rebuilt from a Google Apps Script bot into a
 
 ## 📊 GitHub Stats
 
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhanrambe&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanrambe&layout=compact)
+![Rayhan's GitHub stats](https://readmestats.999857.xyz/api?username=rayhanrambe&show_icons=true&theme=default)
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=rayhanrambe&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rayhanrambe&theme=default)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rayhanrambe&theme=flat&column=7&margin-w=10)](https://github.com/rayhanrambe)
+[![trophy](https://github-trophies.devomb.com/?username=rayhanrambe&theme=flat&column=7&margin-w=10)](https://github.com/rayhanrambe)
 
 <!-- Visitor badge, opsional -->
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rayhanrambe.rayhanrambe)
