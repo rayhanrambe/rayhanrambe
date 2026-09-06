@@ -6,7 +6,7 @@
 
 Developer & educator based in Indonesia, focused on building practical web systems with **Laravel**.
 
-- 💰 Working on a personal **finance tracker** (Laravel + MySQL + Livewire)
+- 💰 Working on a something good (Laravel + MySQL + Livewire)
 - 🧑‍🏫 Teaching background alongside software development
 - 🛠️ Comfortable with hands-on server/deployment work (Nginx, Cloudflare Tunnel, cron-based deploys)
 
@@ -24,7 +24,9 @@ Developer & educator based in Indonesia, focused on building practical web syste
 ## 🎧 Now Playing
 
 <!-- Ganti USERNAME_LASTFM dengan username Last.fm kamu -->
-[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ramberayhan)](https://www.last.fm/user/ramberayhan)
+<p align="center">
+ [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ramberayhan)](https://www.last.fm/user/ramberayhan) 
+</p>
 
 ## 📊 GitHub Stats
 
