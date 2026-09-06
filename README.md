@@ -5,8 +5,7 @@
 
 Developer & educator based in Indonesia, focused on building practical web systems with **Laravel**.
 
-- 🔭 Currently building **SiBimbing** — a thesis guidance management system for university students (student/lecturer/admin dashboards, self-hosted deployment)
-- 💰 Also working on a personal **finance tracker** (Laravel + MySQL + Livewire)
+- 💰 Working on a personal **finance tracker** (Laravel + MySQL + Livewire)
 - 🧑‍🏫 Teaching background alongside software development
 - 🛠️ Comfortable with hands-on server/deployment work (Nginx, Cloudflare Tunnel, cron-based deploys)
 
@@ -19,15 +18,9 @@ Developer & educator based in Indonesia, focused on building practical web syste
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-## 📌 Featured Projects
 
-### SiBimbing
-Thesis guidance management system for university students — handles guidance card generation, multi-supervisor document review workflows, and role-based dashboards.
 
-### Personal Finance Tracker
-A self-hosted finance tracking app, rebuilt from a Google Apps Script bot into a full Laravel + MySQL + Livewire application.
-
-## 🎧 Now Playing (via Metrolist → Last.fm)
+## 🎧 Now Playing
 
 <!-- Ganti USERNAME_LASTFM dengan username Last.fm kamu -->
 [![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ramberayhan)](https://www.last.fm/user/ramberayhan)
