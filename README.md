@@ -1,5 +1,6 @@
-<!-- Ganti LINK_RAW_GIF_KAMU dengan link raw GIF banner kamu setelah upload -->
-![banner](https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" alt="banner" />
+</p>
 
 # Hi, I'm Rayhan 👋
 
