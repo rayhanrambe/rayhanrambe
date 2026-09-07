@@ -6,9 +6,9 @@
 
 Developer & educator based in Indonesia, focused on building practical web systems with **Laravel**.
 
-- 💰 Working on a something good (Laravel + MySQL + Livewire)
+- 💰 Working on a something good 
 - 🧑‍🏫 Teaching background alongside software development
-- 🛠️ Comfortable with hands-on server/deployment work (Nginx, Cloudflare Tunnel, cron-based deploys)
+- 🛠️ Comfortable with hands-on server/deployment work 
 
 ## 🧰 Tech Stack
 
